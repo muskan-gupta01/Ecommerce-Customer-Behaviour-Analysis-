@@ -162,3 +162,8 @@ This project successfully demonstrates the use of Data Analytics techniques for 
 * Customer Behavior Analysis
 * Business Insight Generation
 
+👩‍💻 Author
+Muskan Gupta
+
+Connect with Me
+LinkedIn: linkedin.com/in/muskan-gupta-551293386
