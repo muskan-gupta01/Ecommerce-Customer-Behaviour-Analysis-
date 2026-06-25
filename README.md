@@ -162,8 +162,27 @@ This project successfully demonstrates the use of Data Analytics techniques for 
 * Customer Behavior Analysis
 * Business Insight Generation
 
-👩‍💻 Author
-Muskan Gupta
+---
 
-Connect with Me
-LinkedIn: linkedin.com/in/muskan-gupta-551293386
+# Project Team
+
+## Group Leader
+- Muskan Gupta (Seaborn, Team Coordination)
+
+## Team Members
+- Kashifa (Pandas)
+- Vibhor (Pandas)
+- Abhishek (NumPy)
+- Priyansh (NumPy)
+- Hanshika (Matplotlib)
+- Unnati (Matplotlib)
+- Palak (Report Documentation)
+
+## Project Guide
+- Mr. Saurav Gupta Sir
+
+---
+
+# Connect with Me
+
+LinkedIn: https://linkedin.com/in/muskan-gupta-551293386
